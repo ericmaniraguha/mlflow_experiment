@@ -41,4 +41,11 @@ For a comprehensive guide on MLflow, refer to the [official documentation](https
 
 Watch the [MLflow tutorial video](https://www.youtube.com/watch?v=qdcHHrsXA48) for a visual walkthrough of MLflow in action.
 
+## MLflow Tracking -- from DagsHub (`https://dagshub.com/ericmaniraguha`) 
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/ericmaniraguha/mlflow_experiment.mlflow \
+export MLFLOW_TRACKING_USERNAME=ericmaniraguha \
+export MLFLOW_TRACKING_PASSWORD=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx \
+python script.py
+
 Happy experimenting with MLflow!
