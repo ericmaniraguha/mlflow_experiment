@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Box/CMU%20Fall%20-%202023/MLOps/mlflow_config/mlruns/0/a28492de57d64a1d9a0e2e857e16cb93/artifacts
+end_time: 1703757965438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a28492de57d64a1d9a0e2e857e16cb93
+run_name: traveling-snake-397
+run_uuid: a28492de57d64a1d9a0e2e857e16cb93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703757958269
+status: 3
+tags: []
+user_id: HP

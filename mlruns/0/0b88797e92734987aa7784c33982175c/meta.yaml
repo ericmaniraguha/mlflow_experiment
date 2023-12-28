@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Box/CMU%20Fall%20-%202023/MLOps/mlflow_config/mlruns/0/0b88797e92734987aa7784c33982175c/artifacts
+end_time: 1703758348242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b88797e92734987aa7784c33982175c
+run_name: clean-sponge-154
+run_uuid: 0b88797e92734987aa7784c33982175c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703758342030
+status: 3
+tags: []
+user_id: HP

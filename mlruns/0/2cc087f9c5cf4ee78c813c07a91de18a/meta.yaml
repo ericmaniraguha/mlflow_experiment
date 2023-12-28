@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Box/CMU%20Fall%20-%202023/MLOps/mlflow_config/mlruns/0/2cc087f9c5cf4ee78c813c07a91de18a/artifacts
+end_time: 1703757595923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cc087f9c5cf4ee78c813c07a91de18a
+run_name: beautiful-shad-420
+run_uuid: 2cc087f9c5cf4ee78c813c07a91de18a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703757587895
+status: 3
+tags: []
+user_id: HP

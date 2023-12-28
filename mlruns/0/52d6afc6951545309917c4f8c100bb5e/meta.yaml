@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Box/CMU%20Fall%20-%202023/MLOps/mlflow_config/mlruns/0/52d6afc6951545309917c4f8c100bb5e/artifacts
+end_time: 1703756496689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52d6afc6951545309917c4f8c100bb5e
+run_name: bittersweet-turtle-0
+run_uuid: 52d6afc6951545309917c4f8c100bb5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703756489499
+status: 3
+tags: []
+user_id: HP
